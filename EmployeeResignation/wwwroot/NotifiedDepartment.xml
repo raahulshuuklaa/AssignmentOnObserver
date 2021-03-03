@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Department>
+  <IT>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+  </IT>
+  <Finance>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+  </Finance>
+  <Account>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+  </Account>
+  <HR>
+    <EmployeeId>es001</EmployeeId>
+    <EmployeeId>221</EmployeeId>
+    <EmployeeId>ajay001</EmployeeId>
+    <EmployeeId>ram001</EmployeeId>
+  </HR>
+</Department>
